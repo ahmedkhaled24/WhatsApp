@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/itemSearch"
+        android:title="search"
+        android:icon="@drawable/icon_wh"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/item1"
+        android:title="New group"/>
+
+    <item android:id="@+id/item2"
+        android:title="New broadcast"/>
+
+    <item android:id="@+id/item3"
+        android:title="WahtssApp web"/>
+
+    <item android:id="@+id/item4"
+        android:title="Starred messages"/>
+
+    <item android:id="@+id/item5"
+        android:title="Settings"/>
+
+
+</menu>
